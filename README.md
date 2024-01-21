@@ -14,7 +14,9 @@ python3 arch.py
 ~~无~~
 ### 下载
 如果你要下载 请点
+
 **debian/ubuntu**
+
 ```Git
 $ sudo apt update
 $ sudo apt install git
