@@ -7,8 +7,8 @@ python3 arch.py
 ```
 就可以运行
 ### 扩展
-你可以在==kaomojis.txt==里添加你喜欢的颜文字
-你也可以在==quotes.txt==里添加你喜欢的文言
+你可以在== kaomojis.txt ==里添加你喜欢的颜文字
+你也可以在== quotes.txt ==里添加你喜欢的文言
 
 ### 更新日志
 ~~无~~
